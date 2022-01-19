@@ -1,0 +1,101 @@
+.navbar-home {
+    background-color: teal;
+    border-color: none;
+    border-radius: 0px;
+    border:none;
+    margin-bottom: 0px;
+}
+.navbar-home .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.thumb{
+	padding: 0px;
+	border: none;
+	background-color: unset;
+
+}
+.thumbst{
+	padding: 0px;
+	border: none;
+}
+.thumb a{
+	margin-bottom: 1rem;
+	border: none;
+	margin-top: -1rem;
+	background-color: teal;
+	color: white;
+	display: block;
+	justify-content: center;
+	
+}
+.thumb a:hover{
+	color: black;
+	background-color: lightblue;
+}
+.gettext p{
+	margin-top: 8rem;
+	font-size: 20px;
+	padding-left: 2rem;
+}
+.gettext a{
+	margin-left: 2rem;
+}
+.thumbrow{
+	border-right: solid 1px lightgrey;
+
+}
+.footer{
+	background-color: teal;
+	color: white;
+	margin-top: 15rem;
+	padding-top: 1rem;
+	padding-bottom:1rem;
+}
+.thumbst a{
+	display: block;
+	justify-content: center;
+	margin-bottom: 1rem;
+	border: none;
+	margin-top: -1rem;
+	background-color: teal;
+	color: white;
+}
+.thumbst a:hover{
+	color: black;
+	background-color: lightblue;
+}
+.writer{
+	text-align: right;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+}
+.whole{
+	background-image: url("lib.jpg");
+	background-blend-mode: overlay;
+	background-color: rgb(127,142,139);
+	background-size: cover;
+	color: white;
+	font-weight: bold;
+}
+h5{
+	color: white;
+	font-weight: 900;
+}
+.txtarea{
+	margin-left: 20px;
+}
+.area{
+	margin-left: 5rem;
+}
+.prof img{
+	border-radius: 20px;
+	box-shadow: 7px 6px 70px 21px rgba(3,3,20,0.75);
+}
+.thumb img{
+	box-shadow: 7px 6px 70px 21px rgba(3,3,20,0.75);
+}
